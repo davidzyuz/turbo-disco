@@ -1,0 +1,9 @@
+.add-list-item {
+    width: 100%;
+}
+
+.item-creator-input {
+    flex-grow: 2;
+    margin-right: 5px;
+    border-radius: 5px;
+}
